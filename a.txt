@@ -1,1 +1,5 @@
 "new file" 
+
+PS1='\[\033[01;36m\A \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$ \e[m'
+
+
